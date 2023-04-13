@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohase
 - 👀 I’m interested in LINUX
-- 🌱I’m currently learning ITSE 
+- 🌱 ITSE 
 
 
 <!---
